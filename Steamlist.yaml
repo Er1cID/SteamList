@@ -4,8 +4,8 @@
 # UPDATED: 2025-01-15 14:45:00
 # DOMAIN: 4
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 48
-# TOTAL:55
+# DOMAIN-SUFFIX: 49
+# TOTAL:56
 payload:
   - DOMAIN,f3b7q2p3.ssl.hwcdn.net
   - DOMAIN,steammobile.akamaized.net
@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamcontent.tnkjmec.com
   - DOMAIN-SUFFIX,steamdeck.com
   - DOMAIN-SUFFIX,steamgames.com
